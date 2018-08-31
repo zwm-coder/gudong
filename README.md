@@ -65,12 +65,12 @@ npm run build --report
 
 
 ## 预览
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/1.png) 
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/2.png) 
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/3.png) 
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/4.png) 
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/5.png) 
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/6.png) 
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/7.png) 
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/8.png) 
-![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/9.png) 
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/1.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/2.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/3.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/4.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/5.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/6.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/7.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/8.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/9.png" width="50%" height="50%">  
