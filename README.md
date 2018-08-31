@@ -7,6 +7,7 @@
 - Vue全家桶(Vue, Vue Router, Vuex)
 - axios
 - better-scroll
+- lyric-parse
 
 ## 使用体验
 #### 后端
@@ -65,11 +66,11 @@ npm run build --report
 
 
 ## 预览
-<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/1.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/1.webp" width="50%" height="50%">  
 <img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/2.png" width="50%" height="50%">  
 <img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/3.png" width="50%" height="50%">  
 <img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/4.png" width="50%" height="50%">  
-<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/5.png" width="50%" height="50%">  
+<img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/5.webp" width="50%" height="50%">  
 <img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/6.png" width="50%" height="50%">  
 <img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/7.png" width="50%" height="50%">  
 <img src="https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/8.png" width="50%" height="50%">  
