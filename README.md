@@ -1,9 +1,29 @@
-<<<<<<< HEAD
-# gudong
-一个基于Vue.js实现的音乐Web APP
-=======
+## 咕咚音乐APP
+> 该Web APP 是基于Vue.js实现的，主要是想通过一个真实的项目去锻炼自己的能力，同时也是作为一个学习Vue.js的真实练手项目。在项目的数据来源是[@Binaryfy](https://github.com/Binaryify/NeteaseCloudMusicApi)的[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi),在此也非常感谢[@Binaryfy](https://github.com/Binaryify/NeteaseCloudMusicApi)的辛勤付出，项目还有一部分功能没有完成，正在抓紧实现中。项目中所用到的所有的组件均为自主实现，主要也是为了练手。
 
-## Build Setup
+  
+
+## 技术栈
+- Vue全家桶(Vue, Vue Router, Vuex)
+- axios
+- better-scroll
+
+## 使用体验
+#### 后端
+``` bash
+# clone code  
+git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
+
+cd NeteaseCloudMusicApi  
+
+# install dependencies  
+npm istall 
+
+# run the server
+node app.js
+```
+
+#### 前端
 
 ``` bash
 # install dependencies
@@ -19,5 +39,38 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> init repository
+  
+
+## 目前实现功能  
+
+- 歌曲播放
+- 上一首
+- 下一首
+- 暂停、播放
+- 进度条（可拖动）
+- 迷你播放器
+- 歌词滚动
+- 搜索
+- 歌单推荐
+- 每日新歌
+- 切换播放模式
+
+## 待实现
+- 用户
+- 登陆
+- FM
+- 收藏
+- 评论
+- 排行榜
+
+
+## 预览
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/1.png) 
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/2.png) 
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/3.png) 
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/4.png) 
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/5.png) 
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/6.png) 
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/7.png) 
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/8.png) 
+![](https://temp-1253237582.cos.ap-chengdu.myqcloud.com/Github/gudong_preview/9.png) 
